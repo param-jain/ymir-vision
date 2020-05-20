@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ymir-vision",
+    "name": "Ymir Vision",
     "slug": "ymir-vision",
     "platforms": [
       "ios",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Handwriting Recognition",
+    "githubUrl": "https://github.com/param-jain/ymir-vision"
   }
 }
